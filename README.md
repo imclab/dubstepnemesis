@@ -5,6 +5,7 @@
 * input
   * manual: podcast/talk url
   * via feed subscription ↣ urls
+  * "add them all" ↣ two steps process: from a url, autodetect and present list of potential media
 * youtube-dl ↣ (’•.¸(`’•.¸☼ magic ☼¸.•’´) ¸.•’´)
   * with ffmpeg ↣ audio
 * user ↣ profile, subscriptions
